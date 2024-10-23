@@ -4,18 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cec02cc-045c-47e8-9fb5-79b43807454c" name="Changes" comment="" />
+    <list default="true" id="9cec02cc-045c-47e8-9fb5-79b43807454c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datechnologies/discard/DiscardServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datechnologies/echo/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datechnologies/echo/EchoServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datechnologies/discard/DiscardServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datechnologies/discard/DiscardServerHandler.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NettyScratch" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;slyr91&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/slyr91/NettyScratch.git&quot;,
+    &quot;accountId&quot;: &quot;b3dc80a7-46cd-4729-8095-f75c4e91ef3d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nbAWE2D4y2LE0MJdzEAj8qJqjw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,11 +73,54 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.NettyScratch [:com.datechnologies.discard.DiscardServer.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/slyr9/IdeaProjects/TestProjects/NettyScratch/src/main/java/com/datechnologies/echo"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slyr9\IdeaProjects\TestProjects\NettyScratch\src\main\java\com\datechnologies\echo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EchoServer">
+    <configuration name="DiscardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datechnologies.discard.DiscardServer" />
+      <module name="NettyScratch.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datechnologies.discard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datechnologies.echo.EchoServer" />
+      <module name="NettyScratch.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datechnologies.echo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EchoServer" />
+        <item itemvalue="Application.DiscardServer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
